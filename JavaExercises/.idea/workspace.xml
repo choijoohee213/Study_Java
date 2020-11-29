@@ -44,17 +44,17 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaExamples" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
-  <component name="RunManager" selected="Application.TheaterTest">
-    <configuration name="DateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise02.DateTest" />
+  <component name="RunManager" selected="Application.ExceptionEx02">
+    <configuration name="ExceptionEx01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise07.ExceptionEx01" />
       <module name="JavaExercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise02.*" />
+          <option name="PATTERN" value="exercise07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +62,54 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="exercise01.CalculateVolume" />
+    <configuration name="ExceptionEx02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise07.ExceptionEx02" />
       <module name="JavaExercises" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise06.Test" />
+      <module name="JavaExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise04.Test" />
+      <module name="JavaExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise05.Test" />
+      <module name="JavaExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -100,9 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TheaterTest" />
-        <item itemvalue="Application.DateTest" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ExceptionEx02" />
+        <item itemvalue="Application.ExceptionEx01" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -115,7 +159,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606629969954</updated>
       <workItem from="1606629972157" duration="1787000" />
-      <workItem from="1606631823473" duration="5131000" />
+      <workItem from="1606631823473" duration="17970000" />
     </task>
     <servers />
   </component>
@@ -135,45 +179,53 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1606633411285">
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1606654070278">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1606633411285" />
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1606654070278" />
     <state x="634" y="158" key="EnvironmentVariablesDialog" timestamp="1606631869686">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="634" y="158" key="EnvironmentVariablesDialog/0.0.1536.824@0.0.1536.824" timestamp="1606631869686" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1606632188986">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1606648518770">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606632188986" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1606636993655">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606648518770" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1606662275226">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606636993655" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1606636993655">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606662275226" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1606662275226">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606636993655" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1606636993655">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606662275226" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1606662275226">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606636993655" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1606636993655">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606662275226" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1606662275226">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606636993655" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606662275226" />
     <state x="352" y="108" key="SettingsEditor" timestamp="1606632191526">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="352" y="108" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1606632191526" />
+    <state x="475" y="144" width="585" height="536" key="find.popup" timestamp="1606653499931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="475" y="144" width="585" height="536" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1606653499931" />
+    <state x="611" y="168" key="refactoring.ChangeSignatureDialog" timestamp="1606653655268">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="611" y="168" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1606653655268" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1606631478594">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1606631478594" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1606632863472">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1606657497717">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1606632863472" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1606657497717" />
   </component>
 </project>
