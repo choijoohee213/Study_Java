@@ -44,13 +44,13 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaExamples" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
-  <component name="RunManager" selected="Application.Test (3)">
-    <configuration name="ExceptionEx01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise07.ExceptionEx01" />
+  <component name="RunManager" selected="Application.HangmanGame">
+    <configuration name="ExceptionEx02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise07.ExceptionEx02" />
       <module name="JavaExercises" />
       <extension name="coverage">
         <pattern>
@@ -62,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionEx02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise07.ExceptionEx02" />
+    <configuration name="HangmanGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise12.HangmanGame" />
       <module name="JavaExercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise07.*" />
+          <option name="PATTERN" value="exercise12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,24 +127,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HangmanGame" />
         <item itemvalue="Application.Test (3)" />
         <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.ExceptionEx02" />
-        <item itemvalue="Application.ExceptionEx01" />
       </list>
     </recent_temporary>
   </component>
@@ -159,6 +161,7 @@
       <workItem from="1606629972157" duration="1787000" />
       <workItem from="1606631823473" duration="17970000" />
       <workItem from="1606753280919" duration="4256000" />
+      <workItem from="1606799191351" duration="4804000" />
     </task>
     <servers />
   </component>
@@ -190,22 +193,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606757361914" />
-    <state width="1493" height="151" key="GridCell.Tab.0.bottom" timestamp="1606757578939">
+    <state width="1493" height="151" key="GridCell.Tab.0.bottom" timestamp="1606804011056">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="151" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606757578939" />
-    <state width="1493" height="151" key="GridCell.Tab.0.center" timestamp="1606757578938">
+    <state width="1493" height="151" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606804011056" />
+    <state width="1493" height="151" key="GridCell.Tab.0.center" timestamp="1606804011056">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="151" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606757578938" />
-    <state width="1493" height="151" key="GridCell.Tab.0.left" timestamp="1606757578938">
+    <state width="1493" height="151" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606804011056" />
+    <state width="1493" height="151" key="GridCell.Tab.0.left" timestamp="1606804011056">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="151" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606757578938" />
-    <state width="1493" height="151" key="GridCell.Tab.0.right" timestamp="1606757578939">
+    <state width="1493" height="151" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606804011056" />
+    <state width="1493" height="151" key="GridCell.Tab.0.right" timestamp="1606804011056">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="151" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606757578939" />
+    <state width="1493" height="151" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606804011056" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1606803390416">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606803390416" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1606803390416">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1606803390416" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1606803390416">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1606803390416" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1606803390416">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1606803390416" />
     <state x="352" y="108" key="SettingsEditor" timestamp="1606632191526">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -226,5 +245,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1606657497717" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="word.charAt(0)+&quot;&quot;" language="JAVA" />
+        <watch expression="word.length()" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
